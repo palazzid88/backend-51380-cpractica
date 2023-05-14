@@ -1,8 +1,9 @@
 <div>
   <h4>LISTADO DE USUARIOS</h4>
   {{#each usuarios}}
-    <div>
+    <div class="div-users">
       <p>nombre {{this.name}}, edad {{this.edad}}</p>
+      <img class="img" src={{this.img}}>
     </div>
   {{/each}}
 </div>

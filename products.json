@@ -1,0 +1,132 @@
+[
+    {
+      "title": "untitulo1",
+      "description": "unadescription1",
+      "price": 200,
+      "thumbnail": [
+        "./public/momumental2.jpg"
+      ],
+      "code": 111,
+      "stock": 100,
+      "status": true,
+      "category": "category A",
+      "id": "1"
+    },
+    {
+      "title": "untitulo2",
+      "description": "unadescription2",
+      "price": 200,
+      "thumbnail": [
+        "./public/img/imgD, ./public/img/imgE, ./public/img/imgF"
+      ],
+      "code": 222,
+      "stock": 100,
+      "status": true,
+      "category": "category A",
+      "id": "2"
+    },
+    {
+      "title": "untitulo3",
+      "description": "unadescription3",
+      "price": 200,
+      "thumbnail": [
+        "./public/img/imgG, ./public/img/imgH, ./public/img/imgI"
+      ],
+      "code": 333,
+      "stock": 100,
+      "status": true,
+      "category": "category A",
+      "id": "3"
+    },
+    {
+      "title": "untitulo4",
+      "description": "unadescription4",
+      "price": 200,
+      "thumbnail": [
+        "./public/img/imgJ, ./public/img/imgK, ./public/img/imgL"
+      ],
+      "code": 444,
+      "stock": 100,
+      "status": true,
+      "category": "category B",
+      "id": "4"
+    },
+    {
+      "title": "untitulo5",
+      "description": "unadescription5",
+      "price": 200,
+      "thumbnail": [
+        "./public/img/imgM, ./public/img/imgN, ./public/img/imgO"
+      ],
+      "code": 555,
+      "stock": 100,
+      "status": true,
+      "category": "category B",
+      "id": "5"
+    },
+    {
+      "title": "untitulo6",
+      "description": "unadescription6",
+      "price": 200,
+      "thumbnail": [
+        "./public/img/imgP, ./public/img/imgQ, ./public/img/imgR"
+      ],
+      "code": 666,
+      "stock": 100,
+      "status": true,
+      "category": "category B",
+      "id": "6"
+    },
+    {
+      "title": "untitulo7",
+      "description": "unadescription7",
+      "price": 200,
+      "thumbnail": [
+        "./public/img/imgS, ./public/img/imgT, ./public/img/imgU"
+      ],
+      "code": 777,
+      "stock": 100,
+      "status": true,
+      "category": "category C",
+      "id": "7"
+    },
+    {
+      "title": "untitulo8",
+      "description": "unadescription8",
+      "price": 200,
+      "thumbnail": [
+        "./public/img/imgV, ./public/img/imgW, ./public/img/imgX"
+      ],
+      "code": 888,
+      "stock": 100,
+      "status": true,
+      "category": "category C",
+      "id": "8"
+    },
+    {
+      "title": "untitulo9",
+      "description": "unadescription9",
+      "price": 200,
+      "thumbnail": [
+        "./public/img/imgY, ./public/img/imgZ, ./public/img/imgAA"
+      ],
+      "code": 999,
+      "stock": 100,
+      "status": true,
+      "category": "category C",
+      "id": "9"
+    },
+    {
+      "title": "untituloPorPut7",
+      "description": "unadescriptionPorPut5",
+      "price": 200,
+      "thumbnail": [
+        "./public/img/img1, ./public/img/img2, ./public/img/img3"
+      ],
+      "code": 123,
+      "stock": 100,
+      "status": true,
+      "category": "category E",
+      "id": "10"
+    }
+  ]
